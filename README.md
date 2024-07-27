@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Smriti Yadav</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer and AI/ML enthusiast from India</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/7a/87/81/7a8781168fde99a52044ab01c6968599.jpg"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smriti347&label=Profile%20views&color=0e75b6&style=flat" alt="smriti347" /> </p>
